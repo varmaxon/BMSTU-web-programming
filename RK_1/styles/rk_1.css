@@ -1,0 +1,51 @@
+div{
+    margin: 10px;
+    border: 1px solid black;
+    font-size: 20px;
+    height: 80px;
+    /*width: 75%;*/
+
+}
+#header{ 
+    background-color: #ccc;
+}
+#leftSidebar{
+    background-color: #ddd;
+    float: left;
+	width: 150px;
+    height: 180px;
+}
+#rightSidebar{
+    background-color: #bbb;
+    float: right;
+	width: 150px;
+    height: 180px;
+}
+#main{
+    background-color: #eee;
+    height: 200px;
+    margin-left: 170px;
+	    margin-right: 170px;
+}
+#footer{ 
+    background-color: #ccc;
+}
+
+.pos_1 {
+    text-align: center;
+}
+#font_1 { font-size: 20px; }
+#table_1 {
+    padding-top: 50px;
+    border: 0px;
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#h_res { font-size: 30px; text-align: center; }
+#inp_1 { float: left; padding-left: 10%; font-size: 25px; }
+#inp_2 { float: right; padding-right: 70%; font-size: 25px; }
+#result {
+    text-align: center;
+}
